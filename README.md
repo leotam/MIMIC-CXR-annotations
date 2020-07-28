@@ -6,8 +6,8 @@ Here are 458 annotations used in the disease visual grounding task presented in 
 
 
 Citation information:
-
-@inproceedings{
+```
+@inproceedings{tamliterati2020,
         author = {Tam, L.K., Wang, X., Turkbey, E., Lu, K., Wen, Y., Xu, D.},    
         title = {Weakly supervised one-stage vision and language disease detection using large scale pneumonia and pneumothorax studies},
         booktitle={Medical Image Computing and Computer-Assisted Intervention -- MICCAI 2020},    
@@ -15,5 +15,6 @@ Citation information:
         month = {March},    
         location = {NVIDIA, Santa Clara, CA, USA},     
         note={DLMed Research Group},    
-        howpublished = {MICCAI 2020}
+        howpublished = {MICCAI 2020},
 }
+```
