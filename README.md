@@ -10,7 +10,7 @@ Citation information:
 @inproceedings{
         author = {Tam, L.K., Wang, X., Turkbey, E., Lu, K., Wen, Y., Xu, D.},    
         title = {Weakly supervised one-stage vision and language disease detection using large scale pneumonia and pneumothorax studies},
-        booktitle="Medical Image Computing and Computer-Assisted Intervention -- MICCAI 2020",    
+        booktitle={Medical Image Computing and Computer-Assisted Intervention -- MICCAI 2020},    
         year = {2020},    
         month = {March},    
         location = {NVIDIA, Santa Clara, CA, USA},     
